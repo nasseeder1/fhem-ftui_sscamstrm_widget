@@ -1,5 +1,5 @@
 DIR www/tablet
 DIR www/tablet/lib
 DIR www/tablet/js
-UPD 2019-07-09_01:08:00 197121 www/tablet/js/widget_sscamstrm.js
+UPD 2019-07-09_01:08:00 2758 www/tablet/js/widget_sscamstrm.js
 UPD 2018-12-18_22:09:00 789397 www/tablet/lib/sscam_hls.js
